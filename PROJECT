@@ -1,0 +1,7 @@
+version: "2"
+domain: programming-kubernetes.info
+repo: cnat-kubebuilder
+resources:
+- group: cnat
+  version: v1alpha1
+  kind: At
